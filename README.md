@@ -17,7 +17,7 @@ Python 3.6+
 
 ## Usage
 1. Clone the repository.
-2. Place your audio file (e.g. dogs.wav) in the same directory as the script.
+2. Place your input audio file (e.g. input_audio.wav) in the same directory as the script.
 3. Run the script:
 > python ProgramFile.py
 4. The script will:
