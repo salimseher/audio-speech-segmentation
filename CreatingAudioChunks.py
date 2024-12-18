@@ -5,7 +5,7 @@ from scipy.io.wavfile import write
 import matplotlib.pyplot as plt
 import math
 
-sr, data_read = wavread('dogs.wav')
+sr, data_read = wavread('input_audio.wav')
 
 audio = data_read[:,0]
 
