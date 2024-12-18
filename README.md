@@ -16,8 +16,7 @@ Python 3.6+
 3. matplotlib
 
 ## Usage
-1. Clone the repository:
-> git clone https://github.com/salimseher/audio-speech-segmentator.gitcd audio-speech-segmentator
+1. Clone the repository.
 2. Place your audio file (e.g. dogs.wav) in the same directory as the script.
 3. Run the script:
 > python ProgramFile.py
